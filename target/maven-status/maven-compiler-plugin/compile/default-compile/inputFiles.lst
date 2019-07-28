@@ -1,0 +1,17 @@
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/dao/impl/CatalogueDaoImpl.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entries/OptionEntry.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entities/Question.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entities/Option.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entries/UserEntry.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/dao/CatalogueDao.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/dao/QuestionDao.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/manager/impl/QuestionManagerImpl.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entities/Catalogue.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entities/User.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/Controllers.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/service/impl/BasicServicesImpl.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/service/BasicServices.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entries/QuestionEntry.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/manager/QuestionManager.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/dao/impl/QuestionDaoImpl.java
+/Users/300041737/repos/quizz/src/main/java/com/app/quiz/entries/CatalogueEntry.java
